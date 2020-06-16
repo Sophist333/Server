@@ -19,6 +19,9 @@ vagrant init bento/centos-6.8
 # 仮想マシンを起動する（少し時間かかります）
 vagrant up
 
+# 仮想マシン停止
+vagrant halt
+
 # 仮想マシンの状態を確認する
 vagrant status
 
