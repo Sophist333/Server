@@ -1,3 +1,9 @@
+# IP address
+192.168.33.10
+
+# Port
+22
+
 # 今後複数の仮想マシンを作ることを想定して、それらをまとめるフォルダ（MyVagrant）を作る
 mkdir MyVagrant
 
