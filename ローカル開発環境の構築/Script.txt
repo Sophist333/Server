@@ -4,6 +4,7 @@
 # Port
 22
 
+▶Powershellの操作
 # 今後複数の仮想マシンを作ることを想定して、それらをまとめるフォルダ（MyVagrant）を作る
 mkdir MyVagrant
 
@@ -31,6 +32,7 @@ vagrant halt
 # 仮想マシンの状態を確認する
 vagrant status
 
+▶Puttyの操作
 # OSを最新状態にアップデート（時間かかります）
 sudo yum -y update
 
