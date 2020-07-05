@@ -27,12 +27,16 @@ vagrant init bento/centos-6.8
 vagrant up
 
 # 仮想マシン停止
-vagrant halt
+vagrant 
 
 # 仮想マシンの状態を確認する
 vagrant status
 
-▶Puttyの操作
+▶Puttyの操作(仮想マシンにログインする)
+
+login as: vagrant
+passward: vagrant
+
 # OSを最新状態にアップデート（時間かかります）
 sudo yum -y update
 
